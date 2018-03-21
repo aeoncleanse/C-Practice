@@ -1,0 +1,54 @@
+DRA0202
+AntiAirMissiles
+RackRecoilDistance = 0
+RackSalvoSize = 1
+Damage = 38
+FiringTolerance = 2
+TurretYaw = 0
+DamageRadius = 0
+ProjectilesPerOnFire = 4
+TurretPitch = 0
+RackSalvoReloadTime = 1
+TargetCheckInterval = 0.5
+MuzzleSalvoSize = 4
+MaxRadius = 30
+MuzzleVelocity = 55
+TurretYawSpeed = 360
+RackSalvoChargeTime = 0
+RateOfFire = 1
+TurretPitchSpeed = 360
+TurretYawRange = 55
+MuzzleSalvoDelay = 0.3
+TurretPitchRange = 55
+TrackingRadius = 2.5
+ProjectileLifetime = 4
+RackReloadTimeout = 10
+GroundMissile
+RackSalvoSize = 1
+RackSalvoReloadTime = 0
+TurretPitch = 0
+Damage = 150
+ProjectileLifetimeUsesMultiplier = 1.15
+FiringTolerance = 6
+TurretYaw = 0
+DamageRadius = 2
+ProjectilesPerOnFire = 6
+FiringRandomness = 0.8
+TrackingRadius = 0.8
+TargetCheckInterval = 0.5
+RackRecoilDistance = 0
+MuzzleSalvoSize = 4
+MaxRadius = 40
+MuzzleVelocity = 30
+TurretYawSpeed = 360
+RackSalvoChargeTime = 0
+TurretPitchSpeed = 360
+RateOfFire = 0.1
+TurretYawRange = 20
+MuzzleSalvoDelay = 0.05
+TurretPitchRange = 90
+RackReloadTimeout = 10
+DeathImpact
+Damage = 200
+FiringTolerance = 2
+DamageRadius = 1
